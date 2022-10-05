@@ -1,3 +1,5 @@
+# Curso de Bash Script
+
 Para ejecutar un archivo bash tenemos diferentes modos
 
 1.- $ bash archivo.sh
