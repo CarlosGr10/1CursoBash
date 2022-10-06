@@ -1,7 +1,7 @@
 # !/bin/bash
 # programa para revisar la declaración de variables
 
-opcion=0
-nombre=Carlos
+echo "Opcion para la variable de otro archivo: $nombre"
 
-echo "Opcion: $opcion y Nombre: $nombre"
+
+
